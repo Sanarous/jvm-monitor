@@ -135,22 +135,3 @@ JDK1.7新增，取代CMS
 4. 空间整理：回收过程中会进行对象适当位置调整，减少空间碎片
 5. 可预见性：可选取部分区域进行回收，缩小回收范围，减少全局停顿
 
-
-
-## 截图
-
-![](/doc/1.png)
-
-![](doc/2.png)
-
-Java内置监控工具：`jconsole`（终端输入命令即可打开）
-
-![](doc/3.png)
-
-## 联系
-
-QQ交流群：671017003   欢迎各位前辈或萌新入驻
-
-- [Blog@TyCoding's blog](http://www.tycoding.cn)
-- [GitHub@TyCoding](https://github.com/TyCoding)
-- [ZhiHu@TyCoding](https://www.zhihu.com/people/tomo-83-82/activities)
