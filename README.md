@@ -4,8 +4,6 @@
 
 参考了Java内置的同样使用JMX（Java Management Extensions）实现的监控工具 **jconsole**，通过JMX系统的MXBean接口，快速获取Java应用JVM数据。
 
-线上地址：[http://39.105.46.235:8085/](http://39.105.46.235:8085/)
-
 # 文档
 
 ## JMX
